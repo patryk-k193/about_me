@@ -11,3 +11,10 @@ My name is Patryk Kycia. I graduated from Technical University of Rzeszow in 201
 * Languages: Python, JavaScript
 * Databases: MongoDB
 * Other tools: Git, AzureDevOps, Jira, TestRail
+
+## In progress
+
+* Develop skills in JS and cypress
+* Create the automation tests in cypress for example page
+* Introduce to security testing
+* Develop skills in security testing
